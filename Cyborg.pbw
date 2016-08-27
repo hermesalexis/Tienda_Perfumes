@@ -2,9 +2,8 @@ Save Format v3.0(19990112)
 @begin Unchecked
 @end;
 @begin Targets
- 0 "lideres\\lideres.pbt";
- 1 "COSTOSX\\costosx.pbt";
- 2 "Tienda_Perfumes\\perfumeria.pbt";
+ 0 "perfumeria.pbt";
+ 1 "..\\COSTOSX\\costosx.pbt";
 @end;
-DefaultTarget "Tienda_Perfumes\\perfumeria.pbt";
-DefaultRemoteTarget "Tienda_Perfumes\\perfumeria.pbt";
+DefaultTarget "perfumeria.pbt";
+DefaultRemoteTarget "perfumeria.pbt";
